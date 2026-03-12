@@ -1,0 +1,11 @@
+v1
+{"path":"file:///home/husin/bigdata-project/stream_data/transaction_1.json","timestamp":1773309653213,"batchId":0}
+{"path":"file:///home/husin/bigdata-project/stream_data/transaction_2.json","timestamp":1773309658631,"batchId":1}
+{"path":"file:///home/husin/bigdata-project/stream_data/transaction_3.json","timestamp":1773309661630,"batchId":2}
+{"path":"file:///home/husin/bigdata-project/stream_data/transaction_4.json","timestamp":1773309664629,"batchId":3}
+{"path":"file:///home/husin/bigdata-project/stream_data/transaction_5.json","timestamp":1773309667632,"batchId":4}
+{"path":"file:///home/husin/bigdata-project/stream_data/transaction_6.json","timestamp":1773309670632,"batchId":5}
+{"path":"file:///home/husin/bigdata-project/stream_data/transaction_7.json","timestamp":1773309673631,"batchId":6}
+{"path":"file:///home/husin/bigdata-project/stream_data/transaction_8.json","timestamp":1773309676634,"batchId":7}
+{"path":"file:///home/husin/bigdata-project/stream_data/transaction_9.json","timestamp":1773309679633,"batchId":8}
+{"path":"file:///home/husin/bigdata-project/stream_data/transaction_10.json","timestamp":1773309682636,"batchId":9}
